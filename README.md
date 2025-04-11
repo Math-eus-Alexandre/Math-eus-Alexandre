@@ -1,7 +1,7 @@
 
 # 👉🏼 Matheus Alexandre Santos
 
-Instrutor De Robótica e Programação e aspirante a desenvolvedor Python, estudante de Ciência da Computação, amante de tecnologia e das artes. Tive meu primeiro contato com a técnologia no fim do ensino médio e desde então trabalho na área, busco conhecimento e evolução, somando mais de 10 anos de experiência na área de suporte e implantação de software e buscando agora me aprofundar em desenvolvimento.
+Instrutor De Robótica e aspirante a desenvolvedor, estudante de Ciência da Computação, amante de tecnologia e das artes. Tive meu primeiro contato com a técnologia no fim do ensino médio e desde então trabalho na área, busco conhecimento e evolução, somando mais de 10 anos de experiência na área de suporte e implantação de software e buscando agora me aprofundar em desenvolvimento.
 
 
 
